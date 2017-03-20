@@ -1,0 +1,4 @@
+edu\hadoop\mr\MapReduce\WordCount$WCReducer.class
+edu\hadoop\mr\MapReduce\WordCount.class
+edu\hadoop\mr\MapReduce\WordCount$WCMapper.class
+edu\hadoop\mr\MapReduce\WordCount$CustomPartitioner.class
