@@ -1,0 +1,5 @@
+1. There are two csv files names 2007.csv and 2008.csv which contains flights details ex Year, date, Dest, Ori, DelayTime an etc
+2. You need to load 2 file and calucalte the avg Filight delay for both years. Col 16 represents delayTime and Col 17 reps Origin Code.
+3. Find the avarage delays for each unique Origin for a span of 2 years combined in a comma seperated file like Origin,Ave Delay
+4. Output must be splited into two file that is based on the Origin Code. Code that starts with A-M in one file and N-Z in another file.
+5. File should be otherthan the name "part" and Do not calculate avg for each year, It must be for both years combined.
